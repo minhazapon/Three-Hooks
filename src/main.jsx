@@ -8,6 +8,9 @@ import {
 } from "react-router-dom";
 import Root from './Root';
 import Home from './Home';
+import UseReducer from './useReducer Hook/UseReducer';
+import UseMemo from './useMemo hook/UseMemo'
+
 
 const router = createBrowserRouter([
   {
@@ -18,6 +21,15 @@ const router = createBrowserRouter([
          path: "/",
          element: <Home></Home>,
        },
+       {
+         path: "/useReducer ",
+         element: <UseReducer></UseReducer>      ,
+       },
+       {
+         path: "/useMemo ",
+         element: <UseMemo></UseMemo>     ,
+       },
+     
      ],
   },
 ]);

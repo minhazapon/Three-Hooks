@@ -1,0 +1,103 @@
+[
+    {
+      "name": "Monarch Butterfly",
+      "scientificName": "Danaus plexippus",
+      "family": "Nymphalidae",
+      "wingSpan": "8.9–10.2 cm",
+      "habitat": "Meadows, grasslands, gardens",
+      "region": "North and South America",
+      "colorPattern": "Orange wings with black veins and white spots",
+      "diet": "Milkweed (caterpillars), nectar (adults)"
+    },
+    {
+      "name": "Swallowtail Butterfly",
+      "scientificName": "Papilio machaon",
+      "family": "Papilionidae",
+      "wingSpan": "7–10 cm",
+      "habitat": "Woodlands, fields, and gardens",
+      "region": "Europe, Asia, North America",
+      "colorPattern": "Yellow with black tiger-like stripes",
+      "diet": "Fennel, parsley (caterpillars), nectar (adults)"
+    },
+    {
+      "name": "Painted Lady",
+      "scientificName": "Vanessa cardui",
+      "family": "Nymphalidae",
+      "wingSpan": "5–9 cm",
+      "habitat": "Open areas, gardens, fields",
+      "region": "Worldwide",
+      "colorPattern": "Orange and brown with black and white spots",
+      "diet": "Thistle plants (caterpillars), nectar (adults)"
+    },
+    {
+      "name": "Blue Morpho",
+      "scientificName": "Morpho peleides",
+      "family": "Nymphalidae",
+      "wingSpan": "12–15 cm",
+      "habitat": "Rainforests",
+      "region": "Central and South America",
+      "colorPattern": "Vivid blue upper wings, brown underside with eye spots",
+      "diet": "Fermented fruits (adults)"
+    },
+    {
+      "name": "Cabbage White",
+      "scientificName": "Pieris rapae",
+      "family": "Pieridae",
+      "wingSpan": "4–6 cm",
+      "habitat": "Gardens, fields, and parks",
+      "region": "Worldwide",
+      "colorPattern": "White wings with black tips and spots",
+      "diet": "Cabbage, mustard plants (caterpillars), nectar (adults)"
+    },
+    {
+      "name": "Zebra Longwing",
+      "scientificName": "Heliconius charithonia",
+      "family": "Nymphalidae",
+      "wingSpan": "7–10 cm",
+      "habitat": "Tropical forests, gardens",
+      "region": "Central and South America, Southern United States",
+      "colorPattern": "Black wings with yellow zebra-like stripes",
+      "diet": "Pollen and nectar"
+    },
+    {
+      "name": "Peacock Butterfly",
+      "scientificName": "Aglais io",
+      "family": "Nymphalidae",
+      "wingSpan": "6–7 cm",
+      "habitat": "Woodlands, meadows, gardens",
+      "region": "Europe, Asia",
+      "colorPattern": "Red wings with blue and yellow eye spots",
+      "diet": "Nettles (caterpillars), nectar (adults)"
+    },
+    {
+      "name": "Glasswing Butterfly",
+      "scientificName": "Greta oto",
+      "family": "Nymphalidae",
+      "wingSpan": "5.5–6 cm",
+      "habitat": "Tropical forests",
+      "region": "Central and South America",
+      "colorPattern": "Transparent wings with brown and white borders",
+      "diet": "Nectar from tropical flowers"
+    },
+    {
+      "name": "Common Buckeye",
+      "scientificName": "Junonia coenia",
+      "family": "Nymphalidae",
+      "wingSpan": "4–6 cm",
+      "habitat": "Open fields, meadows, gardens",
+      "region": "North America",
+      "colorPattern": "Brown with orange and eye spots",
+      "diet": "Plantains, snapdragons (caterpillars), nectar (adults)"
+    },
+    {
+      "name": "Great Orange Tip",
+      "scientificName": "Hebomoia glaucippe",
+      "family": "Pieridae",
+      "wingSpan": "8–10 cm",
+      "habitat": "Tropical forests, mangroves",
+      "region": "Southeast Asia, Australia",
+      "colorPattern": "White wings with bright orange tips",
+      "diet": "Capparis plants (caterpillars), nectar (adults)"
+    }
+  ]
+  
