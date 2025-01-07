@@ -17,7 +17,8 @@ const FlyDataDeatils = ({fly}) => {
             <p>wingSpan- {wingSpan} </p>
             <p>habitat- {habitat} </p>
 		</div>
-		<button type="button" className=" btn flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md bg-white text-gray-900">Read more</button>
+		<button type="button" className=" btn flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md bg-white text-gray-900">
+            Read more</button>
 	    </div>
         </div>
             
