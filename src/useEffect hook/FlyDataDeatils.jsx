@@ -2,13 +2,13 @@
 
 const FlyDataDeatils = ({fly}) => {
 
-    const {name, scientificName, family, wingSpan, habitat,} = fly
+    const {image, name, scientificName, family, wingSpan, habitat,} = fly
 
     return (
         <div>
 
         <div className="w-[350px] rounded-md shadow-md bg-black text-gray-100">
-	    <img src={'https://www.popsci.com/wp-content/uploads/2023/05/15/ButterflyFamilyTree.png?quality=85'} alt="" className="object-cover object-center w-full rounded-t-md h-72 bg-gray-500" />
+	    <img src={image} alt="" className="object-cover object-center w-full rounded-t-md h-72 bg-gray-500" />
 	    <div className="flex flex-col justify-between p-6 space-y-8">
 		<div className="space-y-2">
 		<h2 className="text-xl font-semibold font-serif">Name- {name}</h2>

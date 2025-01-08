@@ -1,5 +1,5 @@
 [
-    {
+    { "image":"https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2015/11/18/0/GettyImages-570396585_Vinod-Kumar_Black-Swallowtail-Butterfly.jpg.rend.hgtvcom.1280.960.85.suffix/1447858661804.webp",
       "name": "Monarch Butterfly",
       "scientificName": "Danaus plexippus",
       "family": "Nymphalidae",
@@ -9,7 +9,7 @@
       "colorPattern": "Orange wings with black veins and white spots",
       "diet": "Milkweed (caterpillars), nectar (adults)"
     },
-    {
+    {  "image":"https://cdn.britannica.com/13/225313-050-3519547A/Lime-butterfly-Papilio-demoleus-feeding-on-flower.jpg",
       "name": "Swallowtail Butterfly",
       "scientificName": "Papilio machaon",
       "family": "Papilionidae",
@@ -19,7 +19,7 @@
       "colorPattern": "Yellow with black tiger-like stripes",
       "diet": "Fennel, parsley (caterpillars), nectar (adults)"
     },
-    {
+    { "image":"https://www.popsci.com/wp-content/uploads/2023/05/15/ButterflyFamilyTree.png?quality=85",
       "name": "Painted Lady",
       "scientificName": "Vanessa cardui",
       "family": "Nymphalidae",
@@ -29,7 +29,7 @@
       "colorPattern": "Orange and brown with black and white spots",
       "diet": "Thistle plants (caterpillars), nectar (adults)"
     },
-    {
+    { "image":"https://vanviharnationalpark.org/public/assets/images/vvnp-imgs/butterfly.jpg",
       "name": "Blue Morpho",
       "scientificName": "Morpho peleides",
       "family": "Nymphalidae",
@@ -39,7 +39,7 @@
       "colorPattern": "Vivid blue upper wings, brown underside with eye spots",
       "diet": "Fermented fruits (adults)"
     },
-    {
+    { "image":"https://a-z-animals.com/media/2023/04/shutterstock_1927160003.jpg",
       "name": "Cabbage White",
       "scientificName": "Pieris rapae",
       "family": "Pieridae",
@@ -49,7 +49,7 @@
       "colorPattern": "White wings with black tips and spots",
       "diet": "Cabbage, mustard plants (caterpillars), nectar (adults)"
     },
-    {
+    { "image":"https://www.delfinamazoncruises.com/wp-content/uploads/2020/04/blue-morpho-1310711_640.jpg",
       "name": "Zebra Longwing",
       "scientificName": "Heliconius charithonia",
       "family": "Nymphalidae",
@@ -59,7 +59,7 @@
       "colorPattern": "Black wings with yellow zebra-like stripes",
       "diet": "Pollen and nectar"
     },
-    {
+    { "image":"https://thelivingcoast.org.uk/wp-content/uploads/2021/08/adonis-blue-3-w800.jpg",
       "name": "Peacock Butterfly",
       "scientificName": "Aglais io",
       "family": "Nymphalidae",
@@ -69,7 +69,7 @@
       "colorPattern": "Red wings with blue and yellow eye spots",
       "diet": "Nettles (caterpillars), nectar (adults)"
     },
-    {
+    { "image":"https://i.natgeofe.com/k/c491536c-f34d-4e64-ad27-8ee070dce475/monarch-butterfly-orange-flower.jpg?wp=1&w=1084.125&h=609",
       "name": "Glasswing Butterfly",
       "scientificName": "Greta oto",
       "family": "Nymphalidae",
@@ -79,7 +79,7 @@
       "colorPattern": "Transparent wings with brown and white borders",
       "diet": "Nectar from tropical flowers"
     },
-    {
+    { "image":"https://cdn.shopify.com/s/files/1/0669/9080/1113/files/common-blue-butterfly_jpg_600x600.webp?v=1719212872",
       "name": "Common Buckeye",
       "scientificName": "Junonia coenia",
       "family": "Nymphalidae",
@@ -89,7 +89,7 @@
       "colorPattern": "Brown with orange and eye spots",
       "diet": "Plantains, snapdragons (caterpillars), nectar (adults)"
     },
-    {
+    { "image":"https://e3.365dm.com/24/03/1600x900/skynews-butterfly-climate_6497421.jpg?20240322020851",
       "name": "Great Orange Tip",
       "scientificName": "Hebomoia glaucippe",
       "family": "Pieridae",

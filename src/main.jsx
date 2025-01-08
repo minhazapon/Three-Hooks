@@ -22,11 +22,11 @@ const router = createBrowserRouter([
          element: <Home></Home>,
        },
        {
-         path: "/useReducer ",
+         path: "/useReducer",
          element: <UseReducer></UseReducer>      ,
        },
        {
-         path: "/useMemo ",
+         path: "/useMemo",
          element: <UseMemo></UseMemo>     ,
        },
      

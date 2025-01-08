@@ -3,13 +3,10 @@ import { NavLink } from "react-router-dom";
 
 const Nav = () => {
 
-
     const navZ = <>
-      
-      <li className='/ font-serif ' ><NavLink to='/'>useEffect</NavLink></li>
-      <li className='/ font-serif ' ><NavLink to='/useReducer'>useReducer</NavLink></li>
-      <li className='/ font-serif ' ><NavLink to='/useMemo'>useMemo</NavLink></li>
-    
+      <li className='font-serif ' ><NavLink to='/'>useEffect</NavLink></li>
+      <li className='font-serif ' ><NavLink to='/useReducer'>useReducer</NavLink></li>
+      <li className='font-serif ' ><NavLink to='/useMemo'>useMemo</NavLink></li>    
     </>
 
     return (
@@ -39,7 +36,7 @@ const Nav = () => {
               </ul>
             </div>
             <div className=' flex items-center gap-1'>
-            <img className=" h-[40px] " src="https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/react-icon_svg_.png" alt="" />
+            <img className=" h-[40px] " src="https://sjinnovation.com/sites/default/files/inline-images/Upside%20of%20Using%20Hooks.png" alt="" />
             <a className="text-xl font-serif">Rook Hooks</a>
             </div>
           </div>
