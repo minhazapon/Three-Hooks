@@ -7,7 +7,6 @@ const UseEffect = () => {
     
     const [fly, setFly] = useState([])
     
-
     useEffect( () => {
 
        fetch('fly.json')
@@ -15,7 +14,6 @@ const UseEffect = () => {
        .then( data => setFly(data)) 
 
     } , [])
-
 
     return (
         <div className=" mt-16 mb-16 ml-12 mr-12 ">
