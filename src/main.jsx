@@ -10,9 +10,8 @@ import Root from './Root';
 import Home from './Home';
 import UseReducer from './useReducer Hook/UseReducer';
 import UseMemo from './useMemo hook/UseMemo'
-import WeatherApp from './Wapp';
-
-
+ 
+ 
 const router = createBrowserRouter([
   {
     path: "/",
@@ -30,11 +29,6 @@ const router = createBrowserRouter([
          path: "/useMemo",
          element: <UseMemo></UseMemo>     ,
        },
-       {
-         path: "/wh",
-         element: <WeatherApp></WeatherApp>     ,
-       },
-     
      ],
   },
 ]);
