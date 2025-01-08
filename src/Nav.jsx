@@ -7,6 +7,7 @@ const Nav = () => {
       <li className='font-serif ' ><NavLink to='/'>useEffect</NavLink></li>
       <li className='font-serif ' ><NavLink to='/useReducer'>useReducer</NavLink></li>
       <li className='font-serif ' ><NavLink to='/useMemo'>useMemo</NavLink></li>    
+
     </>
 
     return (

@@ -16,7 +16,7 @@ const UseMemo = () => {
     }
 
     const PerformanceData = useMemo(() =>{
-         return contactNum(myNum)
+        return contactNum(myNum)
     } , [myNum] )
 
     return (
@@ -24,9 +24,9 @@ const UseMemo = () => {
                 
                 <div className="">
 
-                   <button onClick={getValue} className=" btn bg-violet-600 text-white text-xl font-serif w-[500px] ">Counter</button>
+                   <button onClick={getValue} className=" btn bg-violet-800 text-white text-xl font-serif w-[500px] ">Counter</button>
                    <br></br>
-                   <p className=" mt-10 btn bg-cyan-700 text-white text-xl font-serif w-full ">Performance Data: {PerformanceData}</p>
+                   <p className=" mt-10 btn bg-cyan-800 text-white text-xl font-serif w-full ">Performance Data: {PerformanceData}</p>
 
                 </div>
         </div>
