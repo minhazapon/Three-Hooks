@@ -39,13 +39,13 @@ const UseEffect = () => {
                     onChange={handleSearch}
                     type="search" name="search" id="" />
             </div>
-            
+
             <div className=" flex justify-center "> 
-              <div className=" grid md:grid-cols-3 gap-10 ">
-                   {
-                      butterFly.map( (fly) => <FlyDataDeatils key={fly.id}  fly={fly}></FlyDataDeatils>   )
-                   }
-              </div>
+            <div className=" grid md:grid-cols-3 gap-10 ">
+                    {
+                       butterFly.map( (fly) => <FlyDataDeatils key={fly.id} fly={fly}></FlyDataDeatils>   )
+                    }
+            </div>
             </div>   
 
         </div>
