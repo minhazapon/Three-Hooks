@@ -10,7 +10,7 @@ import Root from './Root';
 import Home from './Home';
 import UseReducer from './useReducer Hook/UseReducer';
 import UseMemo from './useMemo hook/UseMemo'
- 
+import Formik from './formik/Formik';
  
 const router = createBrowserRouter([
   {
@@ -23,11 +23,15 @@ const router = createBrowserRouter([
        },
        {
          path: "/useReducer",
-         element: <UseReducer></UseReducer>      ,
+         element: <UseReducer></UseReducer>,
        },
        {
          path: "/useMemo",
-         element: <UseMemo></UseMemo>     ,
+         element: <UseMemo></UseMemo>,
+       },
+       {
+         path: "/formik",
+         element: <Formik></Formik> ,
        },
      ],
   },
