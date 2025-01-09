@@ -125,9 +125,9 @@ const Array = () => {
         },
     ];
 
-    const reduceResult = dataReduce.reduce( (allObj, allValue) => {
-      allObj[allValue.value] = allValue.label
-      return allObj
+    const reduceResult = dataReduce.reduce( (acc, current) => {
+        acc[current.value] = current.label
+      return acc
     } , {} )
     // console.log(reduceResult)
 
