@@ -11,34 +11,34 @@ import Home from './Home';
 import UseReducer from './useReducer Hook/UseReducer';
 import UseMemo from './useMemo hook/UseMemo'
 import Formik from './formik/Formik';
- 
+
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
     children: [
-       {
-         path: "/",
-         element: <Home></Home>,
-       },
-       {
-         path: "/useReducer",
-         element: <UseReducer></UseReducer>,
-       },
-       {
-         path: "/useMemo",
-         element: <UseMemo></UseMemo>,
-       },
-       {
-         path: "/formik",
-         element: <Formik></Formik> ,
-       },
-     ],
+      {
+        path: "/",
+        element: <Home></Home>,
+      },
+      {
+        path: "/useReducer",
+        element: <UseReducer></UseReducer>,
+      },
+      {
+        path: "/useMemo",
+        element: <UseMemo></UseMemo>,
+      },
+      {
+        path: "/formik",
+        element: <Formik></Formik>,
+      },
+    ],
   },
 ]);
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <RouterProvider router={router} />
+    <RouterProvider router={router} />
   </StrictMode>,
 )
